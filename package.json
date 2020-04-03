@@ -6,9 +6,20 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "babel-preset-react-app": "^7.0.0",
+    "axios": "^0.19.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-dom": "^16.13.0",
+    "react-scripts": "3.4.0",
+    "bootstrap": "^4.4.1",
+    "firebase": "^6.0.2",
+    "date-and-time": "^0.12.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-gif-player": "^0.4.2",
+    "react-google-font-loader": "^1.1.0",
+    "react-router-dom": "^4.2.2",
+    "react-youtube": "^7.9.0",
+    "webfontloader": "^1.6.28"
   },
   "scripts": {
     "start": "react-scripts start",
